@@ -1,0 +1,28 @@
+------------PyPromptOS------------
+Welcome to the all and new Whats new!
+This might be handy if you wanna know whats new
+But who knows?
+
+Date of changes: M5 / D9 / Y2024
+
+Changes / Whats new:
+    + Added Whats new
+    + Added BHelp Which is basiclly a new help menu but for commands and how to use them
+    / Changed the help menu from >> to // (Because it looks cool B))
+    / Changed the Version number from 1.0 to 1.0.2
+    / The name will also change from PyPromptOS to PyPrompt Because it is not a PyPromptOS
+    / Fixed a typo in the read file menu
+
+Dates of version:
+    1.0 PBR // M4 / D18 / Y2023
+    1.0.1 PBR // M4 / D24 / Y2023
+    1.1 PBR // M5 / D9 / Y2024
+
+Credit:
+    Coding: @MaxBoiy
+
+Think of this like a 1 year anniversary! only a month late
+With barely any updates and not even public
+
+MBD Product // Made By Dico // MaxBoiy is just a silly online name  
+------------PyPromptOS------------

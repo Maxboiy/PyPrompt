@@ -1,0 +1,42 @@
+------------PyPromptOS------------
+Welcome to the Whats new thing!
+This might be handy if you wanna know whats new
+But who knows?
+
+Date of changes: M5 / D10 / Y2024
+
+Changes / Whats new:
+    + Added a icon! (WOW SO COOL!!)
+    + Added a warning for people to know that i suck so much at programming that if they rename or move something it will break
+    / Changed the WN and BHelp commands to a lower case command 
+    / The version numbers will from now on be like 1.X instead of 1.X.X
+    / Changed the command quit to exit
+    / Put a bit more space between the command and the context in the help menu
+    / Changed the name load to fakeload
+    / Also changed the C:/> to #\> as its something more orignal
+    - Sadly discontinued the lunix version (Sorry! :( )
+    - Got rid of the run.bat file as it was replaced my the .exe file
+    
+Scrapyard:
+    - Wanted to add a feature where theres a cursor a like a white block like what they have in terminal 
+      but it didn't want to work in VSCode so that idea is scraped!
+
+What i should add in the future:
+    That all the commands work without having to keep the program in the same folder or keeping it the same name
+
+Dates of version:
+    1.0 PBR // M4 / D18 / Y2023
+    1.0.1 PBR // M4 / D24 / Y2023
+    1.0.2 PBR // M5 / D9 / Y2024
+    1.3 PBR // M5 / D10 / Y2024 started working again on // M5 / D6 / Y2024 (got to lazy)
+
+Credit:
+    Coding: @MaxBoiy
+
+Compiled via:
+    PyInstaller
+
+With barely any *big* updates and no linux support! isn't it exciting?
+
+MBD Product // Made By Dico //
+------------PyPromptOS------------

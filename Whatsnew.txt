@@ -1,0 +1,39 @@
+------------PyPromptOS------------
+Welcome to the Whats new thing!
+This might be handy if you wanna know whats new
+But who knows?
+
+Date of changes: M6 / D8 / Y2024
+
+Changes / Whats new:
+    - Removed BHelp or BetterHelp because it's useless
+    - Removed the fakeload because again it's useless
+    - Removed echo for now (Might return soon?)
+    / Changed the \ to / (I don't know the name of it)
+    / reworked all the commands that are useful
+    + Added an launcher / starter! To check if all files are there
+    + Added an Setup to show how this program works
+    + Added an feature where setup will create an file for skipping setup
+
+
+
+What i should add in the future:
+    That all the commands work without having to keep the program in the same folder or keeping it the same name
+
+Dates of version:
+    1.0 PBR // M4 / D18 / Y2023
+    1.0.1 PBR // M4 / D24 / Y2023
+    1.0.2 PBR // M5 / D9 / Y2024
+    1.3 PBR // M5 / D10 / Y2024 started working again on // M5 / D6 / Y2024 (got to lazy) (???)
+    1.4 PBR // M6 / D8 / Y2024  started working again on // M8 / D3 / Y2024 (forgot about this)
+
+Credit:
+    Coding: @MaxBoiy
+
+Compiled via:
+    PyInstaller
+
+With barely any *big* updates and no linux support! isn't it exciting?
+
+MBD Product // Made By Dico // 
+------------PyPromptOS------------

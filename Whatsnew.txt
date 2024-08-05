@@ -9,16 +9,16 @@ Changes / Whats new:
     - Removed BHelp or BetterHelp because it's useless
     - Removed the fakeload because again it's useless
     - Removed echo for now (Might return soon?)
-    / Changed the \ to / (I don't know the name of it)
+    / Changed the \ to / in the console
     / reworked all the commands that are useful
     + Added an launcher / starter! To check if all files are there
     + Added an Setup to show how this program works
     + Added an feature where setup will create an file for skipping setup
-
+    + Added an recovery menu for well if PyPrompt doesn't exist (in the setup)
 
 
 What i should add in the future:
-    That all the commands work without having to keep the program in the same folder or keeping it the same name
+    (Check!) That all the commands work without having to keep the program in the same folder or keeping it the same name
 
 Dates of version:
     1.0 PBR // M4 / D18 / Y2023
@@ -32,6 +32,8 @@ Credit:
 
 Compiled via:
     PyInstaller
+On:
+    5-August-2024
 
 With barely any *big* updates and no linux support! isn't it exciting?
 

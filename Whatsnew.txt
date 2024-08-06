@@ -15,7 +15,7 @@ Changes / Whats new:
     + Added an Setup to show how this program works
     + Added an feature where setup will create an file for skipping setup
     + Added an recovery menu for well if PyPrompt doesn't exist (in the setup)
-
+    + Forgot to mention that there's also an setting to delete the setup file
 
 What i should add in the future:
     (Check!) That all the commands work without having to keep the program in the same folder or keeping it the same name
